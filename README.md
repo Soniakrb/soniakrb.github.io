@@ -1,2 +1,0 @@
-# soniakrb.github.io
-Nettside
